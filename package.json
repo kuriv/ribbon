@@ -1,0 +1,26 @@
+{
+  "name": "@kuriv/ribbon",
+  "version": "1.0.1",
+  "description": "Add background ribbons to your website.",
+  "main": "ribbon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuriv/ribbon.git"
+  },
+  "keywords": [
+    "ribbon",
+    "ribbon-canvas",
+    "canvas-ribbon",
+    "canvas",
+    "canvas-animation"
+  ],
+  "author": "Kuriv Vesti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuriv/ribbon/issues"
+  },
+  "homepage": "https://github.com/kuriv/ribbon#readme"
+}
