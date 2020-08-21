@@ -1,7 +1,7 @@
 # ribbon
 
 <a href="https://github.com/kuriv/ribbon">
-    <img src="ribbon.png" width="80" height="80" align="right">
+    <img src="ribbon.svg" width="80" height="80" align="right">
 </a>
 
 > Add background ribbons to your website.
@@ -61,7 +61,7 @@ Insert the scripts before the closing `</body>` tag.
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/ribbon "build"
-[version-image]: https://img.shields.io/badge/version-v1.0.2-blue   "version"
+[version-image]: https://img.shields.io/badge/version-v1.0.3-blue   "version"
 [version-url]: https://github.com/kuriv/ribbon   "version"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://opensource.org/licenses/MIT  "license"
