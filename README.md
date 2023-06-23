@@ -51,7 +51,7 @@ Insert the scripts before the closing `</body>` tag.
 
 ## Preview
 
-![ribbon](test.png)
+![ribbon](README.png)
 
 ## License
 
@@ -61,7 +61,7 @@ Insert the scripts before the closing `</body>` tag.
 
 [build-image]: https://img.shields.io/badge/build-passing-brightgreen   "build"
 [build-url]: https://github.com/kuriv/ribbon "build"
-[version-image]: https://img.shields.io/badge/version-v1.0.3-blue   "version"
+[version-image]: https://img.shields.io/badge/version-v1.0.4-blue   "version"
 [version-url]: https://github.com/kuriv/ribbon   "version"
 [license-image]: https://img.shields.io/badge/license-MIT-green "license"
 [license-url]: https://opensource.org/licenses/MIT  "license"

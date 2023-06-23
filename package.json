@@ -1,6 +1,6 @@
 {
   "name": "@kuriv/ribbon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Add background ribbons to your website.",
   "main": "ribbon.js",
   "scripts": {
